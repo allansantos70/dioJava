@@ -1,7 +1,7 @@
 
 import java.util.Scanner; 
 
-public class Problem {
+public class PedraPapel {
 
     public static void main(String[] args) {
       

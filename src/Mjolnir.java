@@ -1,7 +1,7 @@
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
-public class Problem3 {
+public class Mjolnir {
     public static void main(String[] args){
       
 		Scanner leitor = new Scanner(System.in);
